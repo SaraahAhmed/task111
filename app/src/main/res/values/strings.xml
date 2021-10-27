@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My first application</string>
+    <string name="text1">Task 1 : simple meme</string>
+    <string name="text2">computer science student struggle</string>
+    <string name="text3">Sarah Ahmed</string>
+    <string name="text4">Sophomore</string>
+
+</resources>
